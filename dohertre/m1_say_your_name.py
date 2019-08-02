@@ -9,9 +9,13 @@ Authors: Dave Fisher and Rebekah Doherty
 
 import ev3dev.ev3 as ev3
 
+
 def main():
     ev3.Sound.speak('Rebekah')
+
     
+main()
+
 
 # ------------------------------------------------------------------
 # TODO: 2. Make the robot say "David Fisher can write E V 3 programs"
