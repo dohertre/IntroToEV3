@@ -11,14 +11,15 @@ import ev3dev.ev3 as ev3
 
 
 def main():
-    ev3.Sound.speak('Rebekah')
+    ev3.Sound.speak('Rebekah is a Boss for figuring me out without the professor')
 
-    
+
 main()
 
 
-# ------------------------------------------------------------------
-# TODO: 2. Make the robot say "David Fisher can write E V 3 programs"
+# --------------
+# ----------------------------------------------------
+# DONE: 2. Make the robot say "David Fisher can write E V 3 programs"
 #   But of course use YOUR NAME.
 #
 #   Use the samples to figure out the necessary lines of code.
